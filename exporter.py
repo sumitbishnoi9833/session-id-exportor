@@ -1,0 +1,209 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+  <head><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="google-site-verification" content="poDzweU2cKxlCgLaPrTSQ-nOWMpUHDN6chsJ4MI-LN4" />
+
+    <link rel="canonical" href="https://www.my-site.com/index.html" />
+
+    <meta name="Generator" content="iWeb 1.1.2">
+
+    <title>Welcome to My Site - Explore, Discover, and Engage</title>
+
+    <meta name="description" content="Dive into a world of possibilities at My Site. Discover captivating content, engage with our community, and explore topics that intrigue you. Start your journey today!">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/site/home_files/home.css"><script type="text/javascript" src="/site/home_files/home.js"></script>
+
+  <link rel="icon" type="image/x-icon" href="./logo.png">
+
+<script type="application/ld+json">
+
+    {
+
+      "@context": "https://schema.org",
+
+      "@type": "WebSite",
+
+      "url": "https://my-site.com/",
+
+      "potentialAction": {
+
+        "@type": "SearchAction",
+
+        "target": {
+
+          "@type": "EntryPoint",
+
+          "urlTemplate": "https://my-site.com/search?q={search_term_string}"
+
+        },
+
+        "query-input": "required name=search_term_string"
+
+      }
+
+    }
+
+    </script>
+
+</head>
+
+  <body style="background: #ffffff; margin: 0pt; " onload="onPageLoad();">
+
+    <div style="text-align: center; ">
+
+      <div style="margin-bottom: 0px; margin-left: auto; margin-right: auto; margin-top: 0px; overflow: hidden; position: relative;  background: transparent url(site/Images/pinstripe_bk_tile.jpg) repeat scroll top left; text-align: left; width: 700px; " id="body_content">
+
+       
+
+       <h1>Wilcox Travel Staff Sandals Educational Trip Oct 2006</h1>
+
+        <div style="float: left; height: 0px; line-height: 0px; margin-left: 0px; position: relative; width: 700px; z-index: 10; " id="header_layer">
+
+          <div style="height: 0px; line-height: 0px; " class="tinyText">&#160;</div>
+
+        </div>
+
+        <div style="height: 61px; margin-left: 0px; position: relative; width: 700px; z-index: 0; " id="nav_layer">
+
+          <div style="height: 0px; line-height: 0px; " class="tinyText">&#160;</div>
+
+          <div style="background: url(site/Home_files/navbar_background.png); height: 61px; left: 0px; position: absolute; top: 0px; width: 700px; z-index: 1; ">
+
+            <div style="background: transparent url(site/Home_files/navbar_separator_0.png) no-repeat scroll center; height: 61px; left: 104px; position: absolute; top: 0px; width: 10px; z-index: 1; "></div>
+
+            <div style="background: transparent url(site/Home_files/navbar_separator_1.png) no-repeat scroll center; height: 61px; left: 206px; position: absolute; top: 0px; width: 10px; z-index: 1; "></div>
+
+            <div style="background: transparent url(site/Home_files/navbar_active.png) no-repeat scroll center; height: 69px; left: 7px; position: absolute; top: -3px; width: 106px; z-index: 1; "></div>
+
+          </div>
+
+        </div>
+
+        <div style="margin-left: 0px; position: relative; width: 700px; z-index: 5; " id="body_layer">
+
+          <div style="height: 0px; line-height: 0px; " class="tinyText">&#160;</div>
+
+          <img src="/site/images/cherub_overlay65.jpg" alt="" style="border: none; height: 1056px; left: 0px; opacity: 1.00; position: absolute; top: -1px; width: 700px; z-index: 1; ">
+
+<img src="/site/images/dotted_path_1_538x240.png" alt="" id="id1" style="border: none; height: 240px; left: 75px; opacity: 1.00; position: absolute; top: 5px; width: 564px; z-index: 1; ">
+
+<img src="/site/home_files/4_stamp_ship.png" alt="" id="id2" style="border: none; height: 64px; left: 0px; position: absolute; top: -1px; width: 178px; z-index: 1; ">
+
+<img src="/site/images/7_stamp_parti_red.png" alt="" id="id3" style="border: none; height: 134px; left: 222px; opacity: 1.00; position: absolute; top: 570px; width: 146px; z-index: 1; ">
+
+<img src="/site/home_files/5_stamp_aangekomen.png" alt="" id="id4" style="border: none; height: 145px; left: 552px; position: absolute; top: 282px; width: 149px; z-index: 1; ">
+
+          <div style="height: 1px; line-height: 1px; " class="tinyText">&#160;</div>
+
+          <div class="graphic_generic_body_textbox_style_default" style="margin-left: 50px; margin-top: 380px; position: relative; width: 300px; z-index: 1; ">
+
+            <div>
+
+              <div style="padding: 4px; " class="Normal">
+
+                <div class="paragraph Body_Small" style="line-height: 20px; padding-top: 0pt; "><span style="font-family: 'Helvetica', 'Arial', 'sans-serif'; font-size: 12px; line-height: 17px; ">Nestled between luxuriant hillside gardens and the glistening turquoise waters of the Caribbean, this modern-day Garden of Eden promises a veritable taste of paradise. From championship golf and a renowned scuba program to private strolls along ! </span><img src="/site/home_files/sandals-ochos-rios.png" alt="" id="id5" style="border: none; clear: left; float: left; height: 228px; left: -7px; margin: 12px 1px 2px 0px; position: relative; top: -4px; width: 291px; "></div>
+
+                <div class="paragraph Body_Small" style="line-height: 20px; padding-bottom: 0pt; font-family: 'Helvetica', 'Arial', 'sans-serif'; font-size: 12px; line-height: 17px;">Ocho Rios' longest sugar-white-sand beach; from world-class gourmet dining to stolen moments amid the fragrant, jasmine-scented gardens, this exquisite sanctuary offers something to tempt even the most demanding of souls. Who knew that giving into temptation could be so good for you?</div>
+
+              </div>
+
+              <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText">&#160;</div>
+
+            </div>
+
+          </div>
+
+<img src="/site/home_files/shapeimage_1.png" alt="Wilcox Travel Staff Sandals Educational Trip Oct 2006" title="" id="id6" style="height: 110px; left: 59px; position: absolute; top: 21px; width: 547px; z-index: 1; ">
+
+          <div class="graphic_textbox_style_default" style="height: 222px; left: 50px; position: absolute; top: 128px; width: 270px; z-index: 1; " id="id7">
+
+            <div>
+
+              <div class="graphic_textbox_layout_style_default">
+
+                <div class="paragraph Body" style="line-height: 24px; padding-top: 0pt; text-decoration: none;">&#160;</div>
+
+                <div class="paragraph Body" style="line-height: 24px; "><span>Travel tip: </span><span style="color: #8b2f1a; line-height: 24px; opacity: 1.00; ">Jamaica never gets below 75 degrees during the day, so no matter what time</span></div>
+
+                <div class="paragraph Body" style="line-height: 24px; color: #8b2f1a; line-height: 24px; opacity: 1.00;">of year you travel,</div>
+
+                <div class="paragraph Body" style="line-height: 24px; color: #8b2f1a; line-height: 24px; opacity: 1.00;">be sure to pack shorts</div>
+
+                <div class="paragraph Body" style="line-height: 24px; color: #8b2f1a; line-height: 24px; opacity: 1.00;">and summer clothes.</div>
+
+                <div class="paragraph Body" style="line-height: 24px; padding-bottom: 0pt; text-decoration: none;">&#160;</div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="graphic_textbox_style_default" style="height: 440px; left: 389px; position: absolute; top: 381px; width: 250px; z-index: 1; " id="id10">
+
+            <div>
+
+              <div style="padding: 0px; " class="graphic_textbox_layout_style_default">
+
+                <div class="paragraph Body_Small" style="line-height: 20px; text-decoration: none;">&#160;</div>
+
+                <div class="paragraph Body_Small" style="line-height: 20px; text-decoration: none;">&#160;</div>
+
+                <div class="paragraph Body_Small" style="line-height: 20px; padding-bottom: 0pt; text-decoration: none;">&#160;</div>
+
+              </div>
+
+              <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText">&#160;</div>
+
+            </div>
+
+          </div>
+
+<img src="/site/home_files/jamaica-10-06-041.png" alt="Educational trip" id="id11" style="border: none; height: 173px; left: 208px; position: absolute; top: 192px; width: 219px; z-index: 1; ">
+
+<img src="/site/home_files/frame_landscape.png" alt="" id="id12" style="border: none; height: 267px; left: 376px; position: absolute; top: 105px; width: 325px; z-index: 1; ">
+
+<img src="/site/home_files/jamaica-10-06-030.png" alt="glistening turquoise waters of the Caribbean" id="id13" style="border: none; height: 215px; left: 399px; position: absolute; top: 125px; width: 279px; z-index: 1; ">
+
+<img src="/site/images/euro1ws.png" alt="" id="id14" style="border: none; height: 56px; left: -18px; opacity: 1.00; position: absolute; top: 612px; width: 56px; z-index: 1; ">
+
+<img src="/site/images/euro5cent-ws.png" alt="" id="id15" style="border: none; height: 56px; left: 11px; opacity: 1.00; position: absolute; top: 558px; width: 56px; z-index: 1; ">
+
+<img src="/site/home_files/shapeimage_2.png" alt="" id="id16" style="height: 1px; left: 50px; position: absolute; top: 370px; width: 601px; z-index: 1; ">
+
+          <div style="height: 2px; line-height: 2px; " class="tinyText">&#160;</div>
+
+        </div>
+
+        <div style="height: 180px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
+
+          <div style="height: 0px; line-height: 0px; " class="tinyText">&#160;</div>
+
+          <img src="/site/images/bottom-cap70.jpg" alt="" style="border: none; height: 49px; left: 0px; opacity: 1.00; position: absolute; top: 131px; width: 700px; z-index: 1; ">
+
+<img src="/site/images/page_bottom_overlay.png" alt="" id="id17" style="border: none; height: 104px; left: 0px; opacity: 1.00; position: absolute; top: 27px; width: 700px; z-index: 1; ">
+
+<img src="/site/home_files/image.png" alt="" id="id18" style="border: none; height: 50px; left: 280px; position: absolute; top: 61px; width: 139px; z-index: 1; ">
+
+          <img src="/site/home_files/imageeffectsbelow_sandalsochorios.png" alt="" id="id19" style="border: none; height: 82px; left: 160px; opacity: 1.00; position: absolute; top: 50px; width: 316px; z-index: 1; ">
+
+<img src="/site/home_files/sandalsochorios.jpg" alt="Ocho Rios' longest sugar-white-sand beach" style="border: none; height: 66px; left: 169px; opacity: 1.00; position: absolute; top: 57px; width: 301px; z-index: 1; ">
+
+<img src="/site/home_files/imageeffectsabove_sandalsochorios.png" alt="" id="id20" style="border: none; height: 82px; left: 160px; opacity: 1.00; position: absolute; top: 50px; width: 316px; z-index: 1; ">
+
+
+
+<span style="font-family: 'Helvetica', 'Arial', 'sans-serif'; font-size: 12px; line-height: 17px; "> &#169; Copyright. <script type="text/javascript">document.write(new Date().getFullYear());</script> my-site.com  <a href="/terms.html">Terms</a> | <a href="/sitemap.html">Site Map</a>  </span>
+
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+
+</html>
